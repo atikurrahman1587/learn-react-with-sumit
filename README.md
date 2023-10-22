@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atikurrahman1587/react-quiz-app/main/demo/home-page.png" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/atikurrahman1587/react-quiz-app/main/demo/home-page.png" alt="accessibility text">
 </p>
